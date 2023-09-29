@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "b21290e6-2d0d-7812-3529-891e9a0c93e1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c6bc01e9-271a-422d-86a2-999e64c81ecd",
+    "website": "21w036-science-writing-and-new-media"
+  },
+  "course_title": "Science Writing and New Media: Writing and the Environment",
+  "course_description": "Environmentalists have traditionally relied upon the power of their prose to transform the thoughts and behavior of their contemporaries. In 1963, Rachel Carson, a marine biologist with a penchant for writing, described a world without wildlife in *Silent Spring* and altered the way Americans understood their impact on the landscape. Like other writers we will encounter this semester, Carson realized that she could alter the perceptions of her contemporaries only if she was able to transmit her knowledge in engaging and accessible language. We will do our best to follow in her footsteps.",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.036",
+  "course_image_thumbnail": {
+    "content": "e0c52b9a-c54e-401d-add8-439c55d064b9",
+    "website": "21w036-science-writing-and-new-media"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Readings"
+  ],
+  "site_uid": "fc05a2cf-c4d1-4d8a-870c-5b10e4d1ecb1",
+  "site_short_id": "21w.036-spring-2022"
+}

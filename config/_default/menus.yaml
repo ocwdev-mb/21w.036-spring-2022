@@ -1,0 +1,36 @@
+leftnav:
+- identifier: d83934cb-7e57-4d75-980a-172cfcdd8512
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4e44cc7a-4fde-4ee4-bb2c-6557ac9d228a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: fb6ee633-6b84-46b2-bdd7-b498e4045246
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 93e89302-57fc-4ade-b78c-f876ea240701
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: external--1714960261-1667940108252
+  name: Course Library Guide
+  url: https://libguides.mit.edu/writingandtheenvironment-taft
+  weight: 50
+- identifier: 231da9b6-0c7a-4272-ace3-00d6d53306da
+  name: 'Narrative Essay: Kernel and Motive'
+  pageRef: /pages/narrative-essay-kernel-and-motive
+  parent: 93e89302-57fc-4ade-b78c-f876ea240701
+  weight: 10
+- identifier: 2c045ca9-30d0-42e0-9120-5a843ee01181
+  name: Critical Review
+  pageRef: /pages/critical-review
+  parent: 93e89302-57fc-4ade-b78c-f876ea240701
+  weight: 20
+- identifier: a915b967-2c3f-47ed-af29-84715a92555f
+  name: Scientific American Update
+  pageRef: /pages/scientific-american-update
+  parent: 93e89302-57fc-4ade-b78c-f876ea240701
+  weight: 30
